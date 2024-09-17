@@ -58,6 +58,10 @@ box-shadow: 2px 2px 5px black;
     border: 2px solid black;
 }
 
+.dishPhoto{
+    height: 400px;
+}
+
 .discContainer{
     text-align: center;
     margin: 20px;
